@@ -8,16 +8,13 @@ I'm Muzzammill Abbas (MZL)
 
 ### Connect with me:
 
-<a href="https://bilalrehman08.medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bilalrehman08/">
+<a href="https://www.linkedin.com/in/muzzammill-abbas-40070a69/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/muhammaad_bilal_rehman/">
+<a href="https://www.instagram.com/muzzammillabbas/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/bilal.rehman.1291">
+<a href="https://www.facebook.com/daniel.morcerf">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
