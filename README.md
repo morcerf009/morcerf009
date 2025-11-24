@@ -1,38 +1,53 @@
-Hi There,
-I'm Muzzammill Abbas (MZL)
+# Hi There, I'm Muzzammill Abbas (MZL) 👋
 
-<!-- Attractive Introduction with Image -->
+<!-- Animated Typing Intro -->
+
 <div align="center">
-  <img src="https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737" alt="MZL" width="800">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=4CF7FF&center=true&vCenter=true&lines=Developer+%7C+Tech+Enthusiast;Dart+%7C+C%2B%2B+%7C+Web+Developer;Always+learning+something+new!" />
 </div>
 
-### Connect with me:
+### Connect With Me
 
-<a href="https://www.linkedin.com/in/muzzammill-abbas-40070a69/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/muzzammillabbas/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/daniel.morcerf">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/muzzammill-abbas-40070a69/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/muzzammillabbas/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/daniel.morcerf" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
-<br />
+---
 
-### Languages and Tools:
+## 🚀 About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+Hey, I'm **Muzzammill Abbas**, a passionate professional sculpting a career that merges technical finesse with creative flair. Specializing in **outbound call center optimization, graphic design, and full-stack/mobile app development**, my journey reflects adaptability and a hunger for innovation.
 
-## &#x1f4c8; GitHub Stats
+Beyond the pixels and code, I bring a **collaborative spirit**, clear communication, and a drive to transform ideas into meaningful results.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?
-  username=morcerf009&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
+✨ *Let's collaborate and create something extraordinary together.*
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
-  username=morcerf009&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
+---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
-  user=morcerf009&theme=dracula"  width=60% />
+## 🛠️ Tech Stack
 
+<div align="center">
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=morcerf009&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morcerf009&layout=compact&theme=tokyonight&hide_border=false)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=morcerf009&theme=tokyonight&hide_border=false)
+</
