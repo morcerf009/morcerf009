@@ -91,13 +91,6 @@ Beyond the pixels and code, I bring a **collaborative spirit**, clear communicat
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/morcerf009/morcerf009/output/github-contribution-grid-snake.svg)
-</div>
-
----
-
 ## 🎨 Custom Header Banner
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muzzammill%20Abbas%20(MZL)&fontSize=40&fontColor=ffffff" />
@@ -107,5 +100,5 @@ Beyond the pixels and code, I bring a **collaborative spirit**, clear communicat
 
 ## 👀 Visitor Counter
 <div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=morcerf009&style=for-the-badge)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=morcerf009.morcerf009" alt="Visitor Count" />
 </div>
