@@ -1,13 +1,13 @@
 # Hi There, I'm Muzzammill Abbas (MZL) 👋
 
 <!-- Animated Typing Intro -->
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=4CF7FF&center=true&vCenter=true&lines=Developer+%7C+Tech+Enthusiast;Dart+%7C+C%2B%2B+%7C+Web+Developer;Always+learning+something+new!" />
 </div>
 
-### Connect With Me
+---
 
+### Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/muzzammill-abbas-40070a69/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,31 +23,89 @@
 ---
 
 ## 🚀 About Me
-
 Hey, I'm **Muzzammill Abbas**, a passionate professional sculpting a career that merges technical finesse with creative flair. Specializing in **outbound call center optimization, graphic design, and full-stack/mobile app development**, my journey reflects adaptability and a hunger for innovation.
 
 Beyond the pixels and code, I bring a **collaborative spirit**, clear communication, and a drive to transform ideas into meaningful results.
 
-✨ *Let's collaborate and create something extraordinary together.*
+✨ _Let's collaborate and create something extraordinary together._
 
 ---
 
-## 🛠️ Tech Stack
-
+## 🛠️ Tech Stack & GitHub Stats
 <div align="center">
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- Tech Stack Grid -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" title="Dart" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- GitHub Stats -->
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=morcerf009&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morcerf009&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="45%" />
+</div>
+
+<br />
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morcerf009&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="60%" />
+</div>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
+## ⭐ Featured Repositories
 <div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=morcerf009&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morcerf009&layout=compact&theme=tokyonight&hide_border=false)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=morcerf009&theme=tokyonight&hide_border=false)
-</
+  <a href="https://github.com/morcerf009/Muzzammill_Abbas-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=Muzzammill_Abbas-Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/morcerf009/Assignment-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=Assignment-4&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/morcerf009/Today-s_Qoute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=Today-s_Qoute&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/morcerf009/morcerf009">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=morcerf009&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  ![Snake animation](https://raw.githubusercontent.com/morcerf009/morcerf009/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+## 🎨 Custom Header Banner
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muzzammill%20Abbas%20(MZL)&fontSize=40&fontColor=ffffff" />
+</div>
+
+---
+
+## 👀 Visitor Counter
+<div align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=morcerf009&style=for-the-badge)
+</div>
