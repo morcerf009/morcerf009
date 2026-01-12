@@ -78,26 +78,21 @@ A Python automation tool that converts podcast metadata from YAML into a valid R
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morcerf009&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morcerf009&layout=compact&theme=tokyonight" width="40%" />
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morcerf009&theme=tokyonight" width="89%" />
-</div>
+</p>
 
 ---
 
 ## 📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/morcerf009/react-advanced-todo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=react-advanced-todo&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/morcerf009/Muzzammill_Abbas-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=Muzzammill_Abbas-Portfolio&theme=tokyonight" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=react-advanced-todo&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=morcerf009&repo=Muzzammill_Abbas-Portfolio&theme=tokyonight" />
+</p>
 
 ---
 
